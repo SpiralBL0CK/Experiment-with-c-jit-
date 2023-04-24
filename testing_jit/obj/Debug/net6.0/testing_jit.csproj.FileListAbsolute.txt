@@ -1,0 +1,15 @@
+C:\Users\pwn\source\repos\testing_jit\testing_jit\bin\Debug\net6.0\testing_jit.exe
+C:\Users\pwn\source\repos\testing_jit\testing_jit\bin\Debug\net6.0\testing_jit.deps.json
+C:\Users\pwn\source\repos\testing_jit\testing_jit\bin\Debug\net6.0\testing_jit.runtimeconfig.json
+C:\Users\pwn\source\repos\testing_jit\testing_jit\bin\Debug\net6.0\testing_jit.dll
+C:\Users\pwn\source\repos\testing_jit\testing_jit\bin\Debug\net6.0\testing_jit.pdb
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.csproj.AssemblyReference.cache
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.AssemblyInfoInputs.cache
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.AssemblyInfo.cs
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.csproj.CoreCompileInputs.cache
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.dll
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\refint\testing_jit.dll
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.pdb
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\testing_jit.genruntimeconfig.cache
+C:\Users\pwn\source\repos\testing_jit\testing_jit\obj\Debug\net6.0\ref\testing_jit.dll
